@@ -1,2 +1,2 @@
-# dsauthn
+# dsAUTHn
 Dead Simple AUTHn
